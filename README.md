@@ -86,7 +86,7 @@ Exercises on the field of Mining massive datasets
   <li>Tiến hành tổng hợp những kết quả thu được để đề ra được kết quả sau cùng. </li>
 </ul>
 
-##### *~2. Các bước hoạt động*
+##### *2. Các bước hoạt động*
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Để xử lý một quá trình, thông thường mô hình MapReduce sẽ trải qua 5 bước sau:</p>
 
 <ul align="justify">
@@ -100,3 +100,21 @@ Exercises on the field of Mining massive datasets
 ##### *3. Luồng dữ liệu nền tảng*
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Gồm có: Input Reader, Map Function, Partition Function, Compare Function, Reduce Function và Output Writer</p>
 
+## Phần 2: Bài toán đếm tần suất xuất hiện của từ có trong file - Word Counting
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; <b>Đề tài:</b> Dùng Spark đọc vào một file văn bản và đếm số từ trên bản, lọc ra k từ có tần suất xuất hiện nhiều nhất.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Bài làm sẽ được thực hiện trên colab với các dữ liệu trong file .txt tự tạo</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Bài làm được thực hiện ở đây](https://colab.research.google.com/drive/141mM1PWIalC_lnPDx-IBUS4LMvIviB2C)
+
+## Phần 3: Tài liệu tham khảo
+&nbsp;&nbsp;&nbsp;&nbsp; 1.	Learning Spark by Matei Zaharia, Patrick Wendell, Andy Konwinski, Holden Karau
+
+&nbsp;&nbsp;&nbsp;&nbsp; 2.	https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm
+
+&nbsp;&nbsp;&nbsp;&nbsp; 3.	https://spark.apache.org/
+
+&nbsp;&nbsp;&nbsp;&nbsp; 4.	https://www.mastercode.vn/blog/web-development/apache-spark-la-gi.85
+
+&nbsp;&nbsp;&nbsp;&nbsp; 5.	http://itechseeker.com/
+
+&nbsp;&nbsp;&nbsp;&nbsp; 6. Jeffrey Dean, Sanjay Ghemawat. Mapreduce : Simplified Data Processing on Large Clusters. In OSDI, 2004
