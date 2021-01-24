@@ -104,7 +104,7 @@ Exercises on the field of Mining massive datasets
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; <b>Đề tài:</b> Dùng Spark đọc vào một file văn bản và đếm số từ trên bản, lọc ra k từ có tần suất xuất hiện nhiều nhất.</p>
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Bài làm sẽ được thực hiện trên colab với các dữ liệu trong file .txt tự tạo</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Bài làm được thực hiện ở đây](https://colab.research.google.com/drive/141mM1PWIalC_lnPDx-IBUS4LMvIviB2C)
+&nbsp;&nbsp;&nbsp;&nbsp; [Bài làm được thực hiện ở đây](https://colab.research.google.com/drive/141mM1PWIalC_lnPDx-IBUS4LMvIviB2C?usp=sharing)
 
 ## Phần 3: Tài liệu tham khảo
 &nbsp;&nbsp;&nbsp;&nbsp; 1.	Learning Spark by Matei Zaharia, Patrick Wendell, Andy Konwinski, Holden Karau
