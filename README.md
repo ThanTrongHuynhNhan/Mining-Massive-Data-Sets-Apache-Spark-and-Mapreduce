@@ -118,3 +118,4 @@ Exercises on the field of Mining massive datasets
 &nbsp;&nbsp;&nbsp;&nbsp; 5.	http://itechseeker.com/
 
 &nbsp;&nbsp;&nbsp;&nbsp; 6. Jeffrey Dean, Sanjay Ghemawat. Mapreduce : Simplified Data Processing on Large Clusters. In OSDI, 2004
+
