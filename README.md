@@ -1,4 +1,4 @@
-# Mining-Massive-Data-Sets: Apache Spark và Mapreduce
+# Mining-Massive-Data-Sets: Apache Spark and Mapreduce
 Exercises on the field of Mining massive datasets - Spark and Mapreduce
 
 ## Phần 1: Tìm hiểu về Spark và Mapreduce
